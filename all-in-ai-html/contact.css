@@ -1,0 +1,137 @@
+.titlep{
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(138, 189, 145);
+    text-decoration: none;
+    font-family: 'Garet 300', sans-serif;
+    font-size: 33px;
+    line-height: 33px;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.subp{
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    text-decoration: none;
+    font-family: 'Garet 300', sans-serif;
+    font-size: 24.0003px;
+    line-height: 33px;
+    margin-left: 5%;
+}
+
+.contactinfo{
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Garet 300', sans-serif;
+    font-size: 24.0003px;
+    line-height: 33px;
+    letter-spacing: -0.048em;
+    text-transform: none;
+    list-style-type: none;
+    margin-right: 15%;
+    margin-top: 10%;
+}
+
+img{
+    width: 30%;
+    margin-left: 10%;
+}
+
+.contactdiv{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 0%;
+}
+
+
+.buttondiv{
+    background-color: rgb(138, 189, 145);
+    width: 30%;
+    height: 7rem;
+    margin-left: 5%;
+    text-align: left;
+    display: flex;
+}
+
+.buttonp{
+    font-weight: 100;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Garet 300', sans-serif;
+    font-size: 26px;
+    letter-spacing: -0.055em;
+    text-transform: uppercase;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    width: 30%;
+    margin-left: 10%;
+}
+
+.arrow{
+    height: 30%;
+    vertical-align: middle;
+    width: 12%;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.headerdiv{
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,.07);
+    font-family: -apple-system,BlinkMacSystemFont,sans-serif;
+    font-size: 1.5rem;
+    color: black;
+    margin: 0;
+    width: 100%;
+    display: flex;
+    align-items: baseline;
+    height: 5rem;
+    vertical-align: middle;
+}
+
+.headertitlediv{
+    margin-left: 2%;
+    display: block;
+}
+.headertitle{
+    color: rgb(138, 189, 145);
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.innerheaderdiv{
+    align-items: baseline;
+    display: flex;
+    width: 57%;
+    color: white;
+    text-decoration: none;
+    text-align: right;
+    float: right;
+    margin-left: 33%;
+}
+
+.headeritem{
+    margin-left: 2%;
+}
+
+body{
+    margin:0%;
+}
+
+a:visited { text-decoration: none; color: #595d64;}
+
+a:hover { text-decoration: none; color: rgb(138, 189, 145); }
+
+a:active { text-decoration: none; color:black; }
+
+a:focus { text-decoration: none; color:black; }
