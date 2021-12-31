@@ -7,7 +7,7 @@ body{
     font-style: normal;
     color: rgb(138, 189, 145);
     text-decoration: none;
-    font-family: 'Garet 300', sans-serif;
+    font-family: 'Garet', sans-serif;
     font-size: 33px;
     line-height: 33px;
     margin-top: 5%;
@@ -29,7 +29,7 @@ img{
     font-style: normal;
     color: rgb(138, 189, 145);
     text-decoration: none;
-    font-family: 'Garet 300', sans-serif;
+    font-family: 'Garet', sans-serif;
     font-size: 30px;
     line-height: 33px;
     letter-spacing: -0.048em;
@@ -41,6 +41,7 @@ img{
 
 a{
     text-decoration: none;
+    color: #595d64;
 }
 
 .headerdiv{

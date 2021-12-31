@@ -7,7 +7,7 @@ body{
     font-style: normal;
     color: rgb(138, 189, 145);
     text-decoration: none;
-    font-family: 'Garet 300', sans-serif;
+    font-family: 'Garet', sans-serif;
     font-size: 33px;
     line-height: 33px;
     margin-top: 5%;
@@ -45,6 +45,7 @@ img{
 
 a{
     text-decoration: none;
+    color: #595d64;
 }
 
 h4{
@@ -52,7 +53,7 @@ h4{
     font-style: normal;
     color: rgb(138, 189, 145);
     text-decoration: none;
-    font-family: 'Garet 300', sans-serif;
+    font-family: 'Garet', sans-serif;
     font-size: 29.3333px;
     line-height: 50px;
     letter-spacing: 0em;
@@ -67,7 +68,7 @@ h4{
     font-style: normal;
     color: white;
     text-decoration: none;
-    font-family: 'Garet 300', sans-serif;
+    font-family: 'Garet', sans-serif;
     font-size: 21.3337px;
     line-height: 29px;
     letter-spacing: -0.048em;
